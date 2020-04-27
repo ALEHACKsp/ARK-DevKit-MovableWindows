@@ -18,3 +18,18 @@ Final result is this:
 https://gyazo.com/eee843291711738bfc8559da2c32db3d
 
 There's other ways to do it too that are probably more efficient.  In a mouse button down override you can detect a drag event and then in OnDragDetected override create a drag & drop operation and use a payload
+
+# BP_MoveableWindows_Test Graphs
+[![Image from Gyazo](https://i.gyazo.com/48eacfd0c6b79a812bcd5256928dcde5.png)](https://gyazo.com/48eacfd0c6b79a812bcd5256928dcde5)
+
+[![Image from Gyazo](https://i.gyazo.com/50f44c81e20e0e5642a25e9834931423.png)](https://gyazo.com/50f44c81e20e0e5642a25e9834931423)
+
+[![Image from Gyazo](https://i.gyazo.com/7257833e5ddf4f8b5e956f49c263664f.png)](https://gyazo.com/7257833e5ddf4f8b5e956f49c263664f)
+
+[![Image from Gyazo](https://i.gyazo.com/924c8fdce9382662cb6715ac5e25ff1d.png)](https://gyazo.com/924c8fdce9382662cb6715ac5e25ff1d)
+
+[![Image from Gyazo](https://i.gyazo.com/49eece3a07932535a3f7dc22c591b7ff.png)](https://gyazo.com/49eece3a07932535a3f7dc22c591b7ff)
+
+[![Image from Gyazo](https://i.gyazo.com/0ace6e615e14ef4a298fb2a400e825f8.png)](https://gyazo.com/0ace6e615e14ef4a298fb2a400e825f8)
+
+[![Image from Gyazo](https://i.gyazo.com/e1ab50ad1f5065a9f3f3701f4e4696d6.png)](https://gyazo.com/e1ab50ad1f5065a9f3f3701f4e4696d6)
